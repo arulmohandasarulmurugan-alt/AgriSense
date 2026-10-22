@@ -1,0 +1,6 @@
+{
+  "name": "AgriSense — Smart Farming & Crop Intelligence Lab",
+  "description": "Grow Smarter. Simulate Before You Sow. Interactive agricultural simulation, virtual farm management, crop planning, and weather-irrigation intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
